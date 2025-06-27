@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# NLTK data (optional, depending on where it's stored)
+nltk_data/
+
+# VSCode settings (optional, if you're using VSCode)
+.vscode/
+
+# Mac OS metadata (if working cross-platform)
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Logs
+*.log
+
+# Python environment settings
+*.env
